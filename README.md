@@ -9,3 +9,7 @@ Flexbox has a main and cross axis. The main axis is defined by the flex-directio
 <strong>column:</strong> vertical axis with flex items from top to bottom <br>
 <strong>column-reverse:</strong> vertical axis with flex items from bottom to top <br> <br> <br>
 <strong>Note: The axes and directions will be different depending on the text direction. The values shown are for a left-to-right text direction.</strong> <br>
+<br><br><br>
+
+Photo Gallery View>:
+<ing src="https://github.com/oliverSarah/flexbox/blob/main/flexbox-final.png?raw=true">
