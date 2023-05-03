@@ -1,5 +1,5 @@
 # flexbox
-Learning Flexbox with FreeCodeCamp, making a Photo Gallery. 
+Learning Flexbox with FreeCodeCamp, making a Photo Gallery. <br>
 
 
 Flexbox has a main and cross axis. The main axis is defined by the flex-direction property, which has four possible values:
