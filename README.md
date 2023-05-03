@@ -1,4 +1,4 @@
-# flexbox
+# FlexBox
 Learning Flexbox with FreeCodeCamp, making a Photo Gallery. <br>
 
 
